@@ -1,3 +1,11 @@
-# This is for github practice#
+<!DOCTYPE html>
 
-##_Insert text here_###
+<html>
+<head>
+<title>Github Practice</title>
+</head>
+
+<body>
+<h1>This is github practice</h1>
+</body>
+</html>
